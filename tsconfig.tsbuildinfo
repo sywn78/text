@@ -1,1 +1,0 @@
-{"root":["./src/App.tsx","./src/main.tsx","./src/types.ts","./src/components/BookCard.tsx","./src/components/BookList.tsx","./src/components/BookPopup.tsx","./src/components/Header.tsx","./src/hooks/useStore.ts","./src/store/booksSlice.ts","./src/store/index.ts","./src/store/selectors.ts","./src/store/store.ts"],"version":"5.9.3"}
